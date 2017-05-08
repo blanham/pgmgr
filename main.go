@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rnubel/pgmgr/pgmgr"
+	"github.com/blanham/pgmgr/pgmgr"
 	"github.com/urfave/cli"
 )
 
